@@ -1,0 +1,18 @@
+body {
+  background-image: url("/img/mountains-universe-3.png");
+}
+
+.container {
+  margin: 6rem 10rem;
+  animation: change 2s backwards;
+}
+
+h1 {
+  margin-bottom: 1.6rem;
+}
+
+p {
+  font-size: 1.8rem;
+  max-width: 64rem;
+  line-height: 160%;
+}

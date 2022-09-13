@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+  --fc-primary: hsl(0, 0%, 100%);
+  --fc-second: hsl(194, 97%, 31%);
+  --fc-third: hsl(240, 9%, 89%);
+  --ff-primary: "Roboto", sans-serif;
+}
+
+body {
+  font-size: 1.6rem;
+  color: var(--fc-third);
+  font-family: var(--ff-primary);
+  background-size: cover;
+}
+
+body a,
+body li {
+  text-decoration: none;
+  list-style-type: none;
+  color: var(--fc-third);
+  font-size: 2.1rem;
+}
+
+nav {
+  display: flex;
+  margin: 4rem 7rem;
+  width: 48rem;
+  gap: 3rem;
+  align-items: center;
+}
+
+ul {
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+}
+
+.active {
+  color: var(--fc-primary);
+  font-size: 2.4rem;
+  font-weight: 700;
+}
+
+h1 {
+  color: var(--fc-primary);
+  font-size: 5rem;
+  font-weight: 700;
+}
+
+@keyframes change {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
