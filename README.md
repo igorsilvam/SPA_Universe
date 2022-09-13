@@ -41,9 +41,7 @@ In the links below you will find the layout of the web project and also the mobi
 
 ## Usage
 
-To use this project, go to the link:
-
-[Link Project](https://igorsilvamedeiros.github.io/SPA_Universe/)
+Install init and lite-serve Node.js, configure and run.
 
 ## Contact
 
