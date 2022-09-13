@@ -1,4 +1,4 @@
-import { home, universe, explorer } from "./elements.js";
+import { home, universe, explorer } from "/elements.js";
 
 export default class Active {
   menu(ValuePath) {
