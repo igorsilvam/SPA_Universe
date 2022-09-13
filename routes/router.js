@@ -1,4 +1,4 @@
-import Active from "/js/active.js";
+import Active from "js/active.js";
 
 const active = new Active();
 
