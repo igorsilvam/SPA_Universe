@@ -13,6 +13,7 @@
 <p align="center">
 	<a href="#about">About</a> •
 	<a href="#tech-stack">Tech Stack</a> •
+	<a href="#Layout">Layout</a> •
 	<a href="#usage">Usage</a> • 
 	<a href="#contact">Contact</a> 
 </p>
